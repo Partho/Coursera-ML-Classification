@@ -7,5 +7,4 @@ Course conducted by Professor Carlos Guestrin of University of Washington.
 
 Following is the certificate received:
 
-![Certificate](https://www.coursera.org/api/certificate.v1/pdf/AQW687FGBESV)
-![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera-ML-Classification/master/udacity-dand-certificate.png)
+![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera-ML-Classification/master/Classification_certificate.pdf)
