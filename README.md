@@ -7,4 +7,4 @@ Course conducted by Professor Carlos Guestrin of University of Washington.
 
 Following is the certificate received:
 
-![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera-ML-Classification/master/Classification_certificate.pdf)
+![Certificate](https://raw.githubusercontent.com/parthoiiitm/Coursera-ML-Classification/master/Classification_certificate.png)
